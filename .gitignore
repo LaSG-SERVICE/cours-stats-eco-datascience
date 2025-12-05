@@ -5,9 +5,9 @@ R/library/
 
 
 # Ignorer les fichiers temporaires R
+*.Rmd
 .Rhistory
-.RData
-.Rproj.user
+.Rproj.user/
 
 # Ignorer fichiers HTML/PDF générés
 *.html
@@ -16,8 +16,6 @@ R/library/
 # Ignorer dossiers système
 .DS_Store
 Thumbs.db
-
-
 
 
 

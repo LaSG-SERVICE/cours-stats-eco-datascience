@@ -15,3 +15,4 @@ output:
   html_document:
     theme: cerulean
     toc: true
+    self_contained: false
