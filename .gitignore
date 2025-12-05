@@ -1,0 +1,24 @@
+# Ignorer les bibliothèques R locales
+R/win-library/
+R/library/
+.Rproj.user/
+
+
+# Ignorer les fichiers temporaires R
+.Rhistory
+.RData
+.Rproj.user
+
+# Ignorer fichiers HTML/PDF générés
+*.html
+*.pdf
+
+# Ignorer dossiers système
+.DS_Store
+Thumbs.db
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+name: "site-cours"
+output_dir: "docs"
+
+navbar:
+  title: "Mes Cours"
+  left:
+    - text: "Accueil"
+      href: index.html
+    - text: "Statistique"
+      href: statistique.html
+    - text: "Économétrie"
+      href: econometrie.html
+
+output:
+  html_document:
+    theme: cerulean
+    toc: true

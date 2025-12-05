@@ -1,0 +1,8 @@
+---
+title: "Mes Cours"
+output: html_document
+---
+
+# Bienvenue
+
+Ce site contient mes cours de statistique, économétrie, R, Python, et data science.

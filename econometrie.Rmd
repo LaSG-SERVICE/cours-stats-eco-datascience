@@ -1,0 +1,8 @@
+---
+title: "Cours d'Économétrie"
+output: html_document
+---
+
+# Économétrie
+
+Contenu du cours d’économétrie…

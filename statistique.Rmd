@@ -1,0 +1,8 @@
+---
+title: "Cours de Statistique"
+output: html_document
+---
+
+# Introduction à la statistique
+
+Contenu de ton cours…
